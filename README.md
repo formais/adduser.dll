@@ -27,4 +27,4 @@ This standalone piece code can run in many contexts:
 - Create an EXE file:
 `cl.exe adduser.c /link /DEFAULTLIB:ADVAPI32 /DEFAULTLIB:NETAPI32`
 - Create a DLL file:
-`cl.exe adduser.c /LD /link /DEFAULTLIB:ADVAPI32 /DEFAULTLIB:NETAPI32`
+`cl.exe adduser.c /LD /link /DEFAULTLIB:ADVAPI32 /DEFAULTLIB:NETAPI32`# adduser.dll
